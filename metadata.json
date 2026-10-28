@@ -1,0 +1,6 @@
+{
+  "name": "MonaReads",
+  "description": "Curated modern editorial bookseller featuring indie bestsellers, rare editions, and tactile literary browsing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
